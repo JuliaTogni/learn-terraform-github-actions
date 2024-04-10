@@ -13,6 +13,13 @@ Este tutorial da HashiCorp detalha a configuração de um fluxo de trabalho comp
 - Acesso ao Terraform
 - Acesso à AWS
 
+## Workflow de Automação
+- **Configuração Inicial:** Criação de um workspace no Terraform Cloud e configuração de um repositório GitHub usando um template específico.
+- **Workflows de GitHub Actions:**
+    - ***Plano:*** Geração e revisão de um plano de implantação para cada commit em uma branch de pull request.
+    - ***Aplicação:*** Aplicação da configuração quando atualizada a branch main.
+- **Testes e Merges:** Criação e merge de um pull request para testar o workflow configurado.
+
 ## Conceitos aprendidos
 
 Após concluir o tutorial, aprendi a:
