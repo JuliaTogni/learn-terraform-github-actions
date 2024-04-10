@@ -15,6 +15,15 @@ Este tutorial da HashiCorp detalha a configuração de um fluxo de trabalho comp
 
 ## Conceitos aprendidos
 
+Após concluir o tutorial, aprendi a:
+
+- Configurar repositórios GitHub e Terraform Cloud para automação de infraestrutura.
+- Utilizar o GitHub Actions para rodar comandos do Terraform como parte de um fluxo de trabalho de CI/CD.
+- Gerenciar e armazenar o estado do Terraform de forma segura na nuvem.
+- Automatizar a execução de mudanças na infraestrutura mediante pull requests, proporcionando revisão e colaboração de código.
+- Praticar as melhores práticas de segurança para infraestrutura como código, mantendo as credenciais protegidas.
+- Entender como essas ferramentas e métodos contribuem para a eficiência operacional e a entrega contínua.
+
 
 ## Registros
 Branch Merged com sucesso
